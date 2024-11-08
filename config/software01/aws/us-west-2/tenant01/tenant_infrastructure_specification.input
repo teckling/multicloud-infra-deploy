@@ -1,0 +1,9 @@
+#!/bin/bash
+# We define infrastructure specification in this file.
+# The input values here will be used by the  
+VPC_CIDR_BLOCK=10.0.0.0/16
+subnet01=10.0.0.0/24
+subnet02=10.0.1.0/24
+subnet03=10.0.4.0/24
+subnet04=10.0.5.0/24
+
